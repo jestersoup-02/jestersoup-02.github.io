@@ -1,0 +1,37 @@
+body{
+background:#a2d0ec;
+
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #47699e;
+  font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+}
+
+.navbar a {
+  float: left;
+  font-size: 30px;
+  color: #102c5b;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {                                                                     
+  background-color: #cfd8e8;
+}
+
+h1 {
+color: #102c5b;
+text-align: center;
+font-family: "Lucida Console", "Courier New", monospace;
+} 
+
+p {
+padding: left;
+color: #102c5b;
+font-size: 110%;
+font-family: 
+}
